@@ -9,6 +9,7 @@ public class IncreaseTimeSpawn : MonoBehaviour
     public float spawnInterval = 8f;
     public static bool isGameOver = false;
     // Update is called once per frame
+    //ok la
     void Update()
     {
         if (!isGameOver)
